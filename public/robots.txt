@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Block internal tracking endpoint from crawlers
+Disallow: /api/track
+
+# Sitemaps
+Sitemap: https://lovienteopromos.com/sitemap.xml
+Sitemap: https://lovienteo.com/sitemap.xml
